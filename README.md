@@ -1,4 +1,4 @@
-# Html-games
+# HTML GAMES
 
 🤩Here are some HTML, CSS, and Javascript games.🤩
 
